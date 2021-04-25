@@ -4,9 +4,10 @@
 
 h1{
     color: hotpink;
-    font-family: fantasy;
+    font-family: 'Cambria';
+    font-size: 60px;
     text-align: center;
-}
+} 
 
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -28,7 +29,7 @@ img{
 }
 
 h2{
-    font-family: fantasy;
+    font-family: 'Cambria';
     font-size: auto;
     color: hotpink;
 }
